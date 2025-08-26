@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#compiled files
+*.pyc
+*.env
+*.re
+
+
+
