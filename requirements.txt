@@ -1,0 +1,11 @@
+# Core
+pandas
+numpy
+
+# Databases
+sqlalchemy
+pymongo
+psycopg2-binary   # PostgreSQL connector
+
+# Logging & utilities
+python-dotenv
