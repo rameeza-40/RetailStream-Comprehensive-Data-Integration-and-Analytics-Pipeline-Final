@@ -9,7 +9,7 @@
 
 # 📊 RetailStream - Comprehensive Data Integration and Analytics Pipeline
 
-**Author:** Your Name  
+**Author:** Rameeza fathima
 
 RetailStream is a **data engineering pipeline** that integrates data from multiple retail sources (CSV, JSON, API), validates and cleans it, stores raw data in **MongoDB**, processes and aggregates it, and finally loads the results into **PostgreSQL RDS** for analytics and dashboarding.  
 
