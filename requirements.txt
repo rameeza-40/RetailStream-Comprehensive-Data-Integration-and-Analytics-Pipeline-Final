@@ -13,4 +13,4 @@ python-dotenv
 
 
 #Data warehouse
-Tidb-cloud #used Database
+Tidb-cloud #used Database.
