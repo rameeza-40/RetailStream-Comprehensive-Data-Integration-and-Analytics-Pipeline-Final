@@ -51,51 +51,45 @@ This project demonstrates **end-to-end ETL workflow** using Python, Pandas, Mong
 
 
 
-<!-- Heading -->
-# Hi 👋, I'm Nidhi Ashtikar
+# Hi 👋, I'm Rameeza
 
-A passionate AWS and DevOps Engineer from India  
-[![Profile views](https://komarev.com/ghpvc/?username=USERNAME)](https://github.com/USERNAME)
+🌟 A passionate Developer and Data Enthusiast from India  
 
----
-
-<!-- Quick info badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nidhi-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-ashtikarnidhi19@gmail.com-c14438?logo=gmail&style=flat-square)](mailto:ashtikarnidhi19@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square)](https://your-portfolio.example.com)
+[![Profile views](https://komarev.com/ghpvc/?username=rameeza)](https://github.com/rameeza)  
 
 ---
 
-<!-- Short bio -->
-- 🔭 I’m currently working on **AWS** and **DevOps**
-- 🌱 I’m currently learning **Groovy**
-- 💬 Ask me about **Cloud & DevOps**
-- ⚡ Fun fact: I am funny
+## 🚀 About Me
+- 🔭 I’m currently working on **Python, Data Engineering, and Cloud Projects**
+- 🌱 I’m learning **Big Data, Spark, and AWS**
+- 💬 Ask me about **Python, SQL, MongoDB, Spark, AWS**
+- ⚡ Fun fact: I love building data pipelines that turn messy data into insights ✨
 
 ---
 
-<!-- Skills icons -->
-### Languages and Tools:
+## 🛠️ Languages and Tools
 <p>
-  <img alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36"/>
-  <img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36" height="36"/>
-  <img alt="kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36"/>
-  <img alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36"/>
-  <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36"/>
-  <!-- add more icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
 ---
 
-<!-- Dynamic stats -->
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="USERNAME's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rameeza&show_icons=true&theme=default" alt="rameeza's GitHub stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameeza&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
 
-### Most Used Languages
-<!-- You can also embed a manual image (or the top-langs image above) -->
-
+## 🔗 Connect with Me
+- 📫 Email: **rameeza6224@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com)  
+- 🌐 Portfolio: [your-portfolio-link](https://example.com)  
