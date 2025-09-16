@@ -1,6 +1,6 @@
 """
 RetailStream - Comprehensive Data Integration and Analytics Pipeline - Final
-Author: Your Name
+Author: Rameeza Fathima
 """
 
 import os
