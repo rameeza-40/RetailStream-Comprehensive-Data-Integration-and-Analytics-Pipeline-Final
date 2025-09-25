@@ -43,20 +43,3 @@ This project demonstrates **end-to-end ETL workflow** using Python, Pandas, Mong
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<img width="10108" height="4304" alt="image" src="https://github.com/user-attachments/assets/a78e7077-acf2-4dca-acd9-5fcc701279ea" />
-
-
-
-
-
