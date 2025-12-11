@@ -1,11 +1,8 @@
 # 📊 RetailStream - Comprehensive Data Integration and Analytics Pipeline
 
-
-
 **Author:** Rameeza fathima 
 
 <img width="7364" height="804" alt="image" src="https://github.com/user-attachments/assets/1da60a78-c097-467a-8b73-3ab2e85c77b7" />
-
 
 
 
@@ -41,11 +38,6 @@ This project demonstrates **end-to-end ETL workflow** using Python, Pandas, Mong
 
 
 ### End - To - End Project Data Integration and Analytics pipeline.
-
-
-
-
-
 
 
 
