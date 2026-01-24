@@ -39,3 +39,4 @@ This project demonstrates **end-to-end ETL workflow** using Python, Pandas, Mong
 
 ### End - To - End Project Data Integration and Analytics pipeline.
 
+https://myoctocat.com/assets/images/base-octocat.svg
